@@ -3,11 +3,11 @@
 
 ## Overview
 
-This is the Maven project configuration for the Visualpathit VProfile Webapp. It defines the project structure, dependencies, and build configuration for the web application.
+This is the Maven project configuration for the VProfile Webapp. It defines the project structure, dependencies, and build configuration for the web application.
 
 ## Project Information
 
-- **Group ID:** com.visualpathit
+- **Group ID:** com.scooBit
 - **Artifact ID:** vprofile
 - **Packaging:** WAR
 - **Version:** v2
